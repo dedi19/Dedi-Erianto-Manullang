@@ -1,7 +1,0 @@
-# THIS IS AN EXAM SCHEDULE
-print("WELCOME TO MR.DEDI ENGLISH CLASS")
-exam_st_date = (11,5,2020)
-print( "The examination will start from : %i / %i / %i"%exam_st_date)
-Math=float(input(" monday, Math 7.pm, Tuesday,English 5.pm, Wednesday, Art  5.pm, Thursday, Music 8.pm   :"))
-
-
