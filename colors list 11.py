@@ -1,3 +1,4 @@
+#SUM AND ADDITION
 def sum_thrice(x, y, z):
 
      sum = 500000_IDR + 300000_IDR + 1000000_IDR
